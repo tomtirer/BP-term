@@ -1,4 +1,4 @@
-# BP-cost
+# BP-term
 Back-Projection based Fidelity Term for Ill-Posed Linear Inverse Problems
 
 Applying ISTA (proximal gradient method) on the BP-term + prior is similar to the IDBP baseline https://github.com/tomtirer/IDBP.
