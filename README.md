@@ -1,5 +1,6 @@
 # BP-term
-Back-Projection based Fidelity Term for Ill-Posed Linear Inverse Problems
+Back-Projection based Fidelity Term for Ill-Posed Linear Inverse Problems  
+https://arxiv.org/pdf/1906.06794.pdf
 
 @article{tirer2020back,  
   &nbsp; &nbsp; title={Back-projection based fidelity term for ill-posed linear inverse problems},  
