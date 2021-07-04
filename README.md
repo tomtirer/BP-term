@@ -34,5 +34,5 @@ Python implementation (using PyTorch) of recovery based on DIP and the BP loss c
 
 **Other priors (TV, BM3D):**  
 In general, applying ISTA (proximal gradient method) on the BP-term + prior is similar to the IDBP baseline https://github.com/tomtirer/IDBP.  
-Clearner Matlab code with extension to FISTA (that uses Nesterov's accelerated gradient) will be uploaded.
+Clearner Matlab code with extension to FISTA (that uses Nesterov's accelerated gradient) will be uploaded.  
 Python implementation of the IDBP baseline can be found in https://github.com/tomtirer/IDBP-python.
